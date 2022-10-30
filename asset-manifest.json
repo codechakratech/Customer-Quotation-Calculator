@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Customer-Quotation-Calculator/static/css/main.5b4e1bca.css",
+    "main.js": "/Customer-Quotation-Calculator/static/js/main.a3c9a0ad.js",
+    "static/js/787.067a1db5.chunk.js": "/Customer-Quotation-Calculator/static/js/787.067a1db5.chunk.js",
+    "service-worker.js": "/Customer-Quotation-Calculator/service-worker.js",
+    "static/media/logo.svg": "/Customer-Quotation-Calculator/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/Customer-Quotation-Calculator/index.html",
+    "main.5b4e1bca.css.map": "/Customer-Quotation-Calculator/static/css/main.5b4e1bca.css.map",
+    "main.a3c9a0ad.js.map": "/Customer-Quotation-Calculator/static/js/main.a3c9a0ad.js.map",
+    "787.067a1db5.chunk.js.map": "/Customer-Quotation-Calculator/static/js/787.067a1db5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b4e1bca.css",
+    "static/js/main.a3c9a0ad.js"
+  ]
+}
